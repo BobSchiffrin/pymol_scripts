@@ -10,10 +10,10 @@ The colouring uses the values stored in b factor column of the model pdb file an
 colours them according to the colour scheme used in the AlphaFold/EBI protein structure
 database (https://alphafold.ebi.ac.uk/):
 
-Very high (pLDDT > 90)
-Confident (90 > pLDDT > 70)
-Low (70 > pLDDT > 50)
-Very low (pLDDT < 50)
+    Very high (pLDDT > 90)
+    Confident (90 > pLDDT > 70)
+    Low (70 > pLDDT > 50)
+    Very low (pLDDT < 50)
 
 
 To use, at the PyMOL prompt enter:
